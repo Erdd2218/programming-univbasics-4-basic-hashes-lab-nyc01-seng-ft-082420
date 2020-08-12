@@ -15,6 +15,6 @@ end
 
 
 def id_hash_generator(number)
- num = {:day => number}
+ num = {number => 7}
   # return a hash with a key :id assigned to the provided number
 end
